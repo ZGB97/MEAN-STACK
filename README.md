@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Created a complete MEAN application to help census takers gather data. The application data includes Number in Household, Year( of the Census), Census Taker's Name, Street Address, City, State, and Zip Code. Usersmare able to Create, Read, Update, and Delete the information. Use MongoDB to contain the information and an Angular User interface to gather the information. Code file exceeded pass 25MB.
+Created a complete MEAN application to help census takers gather data. The application data includes Number in Household, Year( of the Census), Census Taker's Name, Street Address, City, State, and Zip Code. Users are able to Create, Read, Update, and Delete the information. Use MongoDB to contain the information and an Angular User interface to gather the information. Code file exceeded pass 25MB.
 <br />
 
 
